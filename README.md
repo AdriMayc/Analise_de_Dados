@@ -49,7 +49,7 @@ O projeto é estruturado da seguinte forma:
    git clone https://github.com/seu_usuario/olist-analysis.git
 
 2. Instale as dependências:
-    pip install -r index/requirements.txt
+    pip install -r requirements.txt
 
 3. Execute o script principal no Streamlit:
     streamlit run app.py
