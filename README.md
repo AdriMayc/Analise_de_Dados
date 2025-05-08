@@ -1,7 +1,5 @@
 #  Análise de Dados do E-commerce Brasileiro - Olist
 
-# Análise de Dados do E-commerce Brasileiro - Olist
-
 ## Descrição do Projeto
 
 Este projeto tem como objetivo explorar e analisar dados de vendas e logística do e-commerce brasileiro **Olist**. Utilizando dados reais de clientes, pedidos, produtos, avaliações e localização, o projeto busca identificar padrões de comportamento de consumidores, avaliar a eficiência da logística e sugerir estratégias para melhorar a performance da empresa.
